@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "65e8be561a6ea4e011e0b49b"
+  },
+  "FullName": "Sakib Talukqder",
+  "Email": "support@frienemie.com",
+  "Password": "$2b$10$kdbym43P36xmzKLf9ec19u38ODHbvjXnejMGm1ly4oh4JeoDZ0wKe",
+  "__v": 0,
+  "Role": "Developer",
+  "Image": "https://scontent.fdac178-1.fna.fbcdn.net/v/t39.30808-6/428687601_1483747542483678_8072867145600877066_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHE1U3k2QWpi6s_c1k7plNyU-8rmwegHTBT7yubB6AdMGZYoW_M10mLoQkBYWLmQqsow2P4Ah4q0xChX59qyRnf&_nc_ohc=Uwkpj5vZmY4AX-79nx5&_nc_ht=scontent.fdac178-1.fna&oh=00_AfDouwx_TBP2afWyV2w0DqrGwBfI1SZAMZRFWzLWapKFAw&oe=65EE923F"
+}]

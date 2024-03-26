@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65ed7290e703f939ff0ee116"
+  },
+  "Name": "Abraham Linkon",
+  "Roll": 23,
+  "Shift": "Morning",
+  "Class": 9,
+  "Sub": {
+    "A": 50,
+    "B": 66,
+    "C": 83
+  },
+  "cgpa": "3.17",
+  "Total": 199,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed7c51e703f939ff0ee17a"
+  },
+  "Name": "Ahmed Miraz",
+  "Roll": 45,
+  "Shift": "Morning",
+  "Class": 9,
+  "Sub": {
+    "A": 67,
+    "B": 64,
+    "C": 89
+  },
+  "cgpa": "3.33",
+  "Total": 220,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed7c89e703f939ff0ee17e"
+  },
+  "Name": "Alamin",
+  "Roll": 78,
+  "Shift": "Morning",
+  "Class": 6,
+  "Sub": {
+    "A": 70,
+    "B": 81,
+    "C": 66
+  },
+  "cgpa": "3.50",
+  "Total": 217,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed99c05d3b0867b5d6d33f"
+  },
+  "Name": "Gazi Sohan",
+  "Roll": 87,
+  "Shift": "Morning",
+  "Class": 6,
+  "Sub": {
+    "A": 87,
+    "B": 78,
+    "C": 45
+  },
+  "cgpa": "3.17",
+  "Total": 210,
+  "__v": 0
+}]
